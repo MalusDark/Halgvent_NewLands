@@ -1,0 +1,7 @@
+ {
+                "parent": "block/cube_all",
+  "textures": {
+                    "all": "halgvent_newlands:block/glass/small_diamond_pattern_glass_window"
+  },
+   "render_type": "cutout"
+ }

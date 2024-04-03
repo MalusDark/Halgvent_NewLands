@@ -1,0 +1,11 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "down": "halgvent_newlands:block/woods/beech/beech_log_top",
+    "up": "halgvent_newlands:block/woods/beech/beech_log_top",
+    "east": "halgvent_newlands:block/woods/beech/beech_log_top",
+    "west": "halgvent_newlands:block/woods/beech/beech_log_top",
+    "north": "halgvent_newlands:block/woods/beech/beech_log",
+    "south": "halgvent_newlands:block/woods/beech/beech_log"
+  }
+}

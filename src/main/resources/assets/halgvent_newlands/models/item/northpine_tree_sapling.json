@@ -1,0 +1,6 @@
+ {
+                "parent": "item/generated",
+  "textures": {
+                    "layer0": "halgvent_newlands:block/woods/sapling/northpine_tree_sapling"
+  }}
+            }}

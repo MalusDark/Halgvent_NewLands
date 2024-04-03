@@ -1,0 +1,11 @@
+ {
+ "parent": "block/cube_all",
+ "textures": {
+ "down": "halgvent_newlands:block/dirt/orange_grass_side",
+ "up": "halgvent_newlands:block/dirt/orange_grass_top",
+ "east": "halgvent_newlands:block/dirt/orange_grass_side",
+ "west": "halgvent_newlands:block/dirt/orange_grass_side",
+ "north": "halgvent_newlands:block/dirt/orange_grass_side",
+ "south": "halgvent_newlands:block/dirt/orange_grass_side"
+ }
+ }

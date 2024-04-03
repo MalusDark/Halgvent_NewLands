@@ -1,0 +1,6 @@
+ {
+                "parent": "block/cube_all",
+  "textures": {
+                    "all": "halgvent_newlands:block/mazanka/white_plaster_with_greenred_draw"
+  }}
+            }}

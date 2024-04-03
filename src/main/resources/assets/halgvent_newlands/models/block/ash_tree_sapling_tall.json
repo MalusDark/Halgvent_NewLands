@@ -1,0 +1,7 @@
+ {
+                "parent": "block/cross",
+  "textures": {
+                    "cross": "halgvent_newlands:block/woods/sapling/ash_tree_sapling_tall"
+  },
+   "render_type": "cutout"
+ }

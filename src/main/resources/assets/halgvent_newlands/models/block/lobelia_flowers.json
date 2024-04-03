@@ -1,0 +1,6 @@
+ {
+                "parent": "block/cross",
+  "textures": {
+                    "cross": "halgvent_newlands:block/herbs/lobelia_flowers"
+  },"render_type": "cotout"}
+           

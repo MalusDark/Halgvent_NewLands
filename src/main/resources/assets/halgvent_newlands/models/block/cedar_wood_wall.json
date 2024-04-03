@@ -1,0 +1,13 @@
+ {
+ "parent": "block/cube",
+ "textures": {
+ "down":  "halgvent_newlands:block/woods/ceder/cedar_wood_wall",
+ "up": "halgvent_newlands:block/woods/ceder/cedar_wood_wall",
+ "north":  "halgvent_newlands:block/woods/ceder/cedar_wood_wall",
+ "east": "halgvent_newlands:block/woods/ceder/cedar_wood_wall_endface",
+ "south":   "halgvent_newlands:block/woods/ceder/cedar_wood_wall",
+ "west":  "halgvent_newlands:block/woods/ceder/cedar_wood_wall_endface",
+ "particle": "halgvent_newlands:block/woods/ceder/cedar_wood_wall"
+ },
+ "render_type": "solid"
+ }

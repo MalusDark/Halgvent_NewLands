@@ -1,0 +1,13 @@
+ {
+ "parent": "block/cube",
+ "textures": {
+ "down": "halgvent_newlands:block/woods/other/bundled_firewood_topbottom_3",
+ "up": "halgvent_newlands:block/woods/other/bundled_firewood_topbottom_3",
+ "north":  "halgvent_newlands:block/woods/other/bundled_firewood",
+ "east": "halgvent_newlands:block/woods/other/bundled_firewood",
+ "south": "halgvent_newlands:block/woods/other/bundled_firewood",
+ "west":  "halgvent_newlands:block/woods/other/bundled_firewood",
+ "particle": "halgvent_newlands:block/woods/other/bundled_firewood"
+ },
+ "render_type": "solid"
+ }

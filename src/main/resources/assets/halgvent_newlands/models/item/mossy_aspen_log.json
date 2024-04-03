@@ -1,0 +1,6 @@
+ {
+                "parent": "block/cube_all",
+  "textures": {
+                    "all": "halgvent_newlands:block/woods/aspen/mossy_aspen_log"
+  }}
+            }}

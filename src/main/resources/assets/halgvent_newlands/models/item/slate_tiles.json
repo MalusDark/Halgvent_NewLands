@@ -1,0 +1,11 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "down": "halgvent_newlands:block/rock/slate/slate_tiles",
+    "up": "halgvent_newlands:block/rock/slate/slate_top",
+    "east": "halgvent_newlands:block/rock/slate/slate_tiles",
+    "west": "halgvent_newlands:block/rock/slate/slate_tiles",
+    "north": "halgvent_newlands:block/rock/slate/slate_tiles",
+    "south": "halgvent_newlands:block/rock/slate/slate_tiles"
+  }
+}

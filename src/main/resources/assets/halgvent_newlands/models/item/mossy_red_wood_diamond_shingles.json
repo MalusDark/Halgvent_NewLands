@@ -1,0 +1,6 @@
+ {
+                "parent": "block/cube_all",
+  "textures": {
+                    "all": "halgvent_newlands:block/shingles/mossy_red_wood_diamond_shingles"
+  }}
+            }}

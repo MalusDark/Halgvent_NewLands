@@ -1,0 +1,6 @@
+ {
+                "parent": "block/cube_all",
+  "textures": {
+                    "all": "halgvent_newlands:block/thatch/overgrown_mossy_dark_brown_thatch"
+  }}
+            }}

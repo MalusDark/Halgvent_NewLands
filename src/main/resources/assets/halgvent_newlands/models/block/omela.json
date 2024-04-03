@@ -1,0 +1,6 @@
+ {
+                "parent": "block/cross",
+  "textures": {
+                    "cross": "halgvent_newlands:block/herbs/omela"
+  },"render_type": "cotout"}
+           

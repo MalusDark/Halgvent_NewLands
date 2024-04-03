@@ -1,0 +1,13 @@
+ {
+ "parent": "block/cube",
+ "textures": {
+ "down": "halgvent_newlands:block/woods/pine/pine_wood_beam_top",
+ "up":  "halgvent_newlands:block/woods/pine/pine_wood_beam_top",
+ "north":   "halgvent_newlands:block/woods/pine/pine_wood_beam",
+ "east":  "halgvent_newlands:block/woods/pine/pine_wood_beam",
+ "south":  "halgvent_newlands:block/woods/pine/pine_wood_beam",
+ "west":   "halgvent_newlands:block/woods/pine/pine_wood_beam",
+ "particle":  "halgvent_newlands:block/woods/pine/pine_wood_beam"
+ },
+ "render_type": "solid"
+ }

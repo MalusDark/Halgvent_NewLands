@@ -1,0 +1,6 @@
+ {
+                "parent": "block/cube_all",
+  "textures": {
+                    "all": "halgvent_newlands:block/ore/tetraedite_ore"
+  }}
+            }}

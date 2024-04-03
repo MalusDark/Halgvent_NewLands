@@ -1,0 +1,6 @@
+ {
+                "parent": "block/cube_all",
+  "textures": {
+                    "all": "halgvent_newlands:block/half_timbered/white_half_timbered/tudor_narrow_diagonal_frames_2"
+  }}
+            }}

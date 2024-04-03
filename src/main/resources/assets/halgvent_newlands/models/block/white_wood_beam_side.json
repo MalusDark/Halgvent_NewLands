@@ -1,0 +1,13 @@
+ {
+ "parent": "block/cube",
+ "textures": {
+ "down": "halgvent_newlands:block/woods/ash/white_wood_beam_top",
+ "up": "halgvent_newlands:block/woods/other/white_wood_beam_top",
+ "north":  "halgvent_newlands:block/woods/other/white_wood_beam_side",
+ "east": "halgvent_newlands:block/woods/other/white_wood_beam_side",
+ "south": "halgvent_newlands:block/woods/other/white_wood_beam_side",
+ "west":  "halgvent_newlands:block/woods/other/white_wood_beam_side",
+ "particle": "halgvent_newlands:block/woods/other/white_wood_beam_side"
+ },
+ "render_type": "solid"
+ }

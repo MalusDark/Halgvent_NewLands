@@ -1,0 +1,9 @@
+{
+  "variants":
+  {
+    "":
+    {
+      "model": "halgvent_newlands:block/simple_square_pattern_glass_window"
+    }
+  }
+}

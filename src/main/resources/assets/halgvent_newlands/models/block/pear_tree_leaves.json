@@ -1,0 +1,7 @@
+ {
+                "parent": "block/cube_all",
+  "textures": {
+                    "all": "halgvent_newlands:block/woods/other/pear_tree_leaves"
+  },
+   "render_type": "cutout"
+ }

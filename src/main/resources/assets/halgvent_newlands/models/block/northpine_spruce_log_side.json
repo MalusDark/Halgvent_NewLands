@@ -1,0 +1,13 @@
+ {
+ "parent": "block/cube",
+ "textures": {
+ "down": "halgvent_newlands:block/woods/northpine/northpine_spruce_log_top",
+ "up": "halgvent_newlands:block/woods/northpine/northpine_spruce_log_top",
+ "north":  "halgvent_newlands:block/woods/northpine/northpine_spruce_log_side",
+ "east": "halgvent_newlands:block/woods/northpine/northpine_spruce_log_side",
+ "south": "halgvent_newlands:block/woods/northpine/northpine_spruce_log_side",
+ "west":  "halgvent_newlands:block/woods/northpine/northpine_spruce_log_side",
+ "particle": "halgvent_newlands:block/woods/northpine/northpine_spruce_log_side"
+ },
+ "render_type": "solid"
+ }

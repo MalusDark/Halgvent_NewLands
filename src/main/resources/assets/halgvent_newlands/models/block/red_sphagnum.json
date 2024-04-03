@@ -1,0 +1,6 @@
+ {
+                "parent": "block/cross",
+  "textures": {
+                    "cross": "halgvent_newlands:block/herbs/red_sphagnum"
+  },"render_type": "cotout"}
+           

@@ -1,0 +1,6 @@
+ {
+                "parent": "block/cube_all",
+  "textures": {
+                    "all": "halgvent_newlands:block/dirt/autumnal_forest_floor_with_roots"
+  }}
+            }}

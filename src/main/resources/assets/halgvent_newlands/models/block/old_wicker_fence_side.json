@@ -1,0 +1,6 @@
+ {
+                "parent": "minecraft:block/fence_side",
+  "textures": {
+                    "texture": "halgvent_newlands:block/woods/other/old_wicker_fence"
+  }
+ }

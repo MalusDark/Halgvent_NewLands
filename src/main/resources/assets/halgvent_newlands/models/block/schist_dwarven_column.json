@@ -1,0 +1,11 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "down": "halgvent_newlands:block/rock/slate/schist_dwarven_column",
+    "up": "halgvent_newlands:block/rock/slate/slate_top",
+    "east": "halgvent_newlands:block/rock/slate/schist_dwarven_column",
+    "west": "halgvent_newlands:block/rock/slate/schist_dwarven_column",
+    "north": "halgvent_newlands:block/rock/slate/schist_dwarven_column",
+    "south": "halgvent_newlands:block/rock/slate/schist_dwarven_column"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "variants":
+  {
+    "":
+    {
+      "model": "halgvent_newlands:block/mossy_small_brick"
+    }
+  }
+}

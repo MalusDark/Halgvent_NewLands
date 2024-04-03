@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "halgvent_newlands",
+	"version": "${version}",
+	"name": "Halgvent_Newlands",
+	"description": "Открой новые земли с Хальгвентом",
+	"authors": [
+		"MalusDarc"
+	],
+	"contact": {
+		"homepage": "https://github.com/MalusDark/Halgvent_Newlands",
+		"sources": "https://github.com/MalusDark/Halgvent_Newlands"
+	},
+	"license": "MIT",
+	"icon": "assets/halgvent_newlands/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.malus.halgvent.Halgvent_Newlands"
+		],
+		"client": [
+			"net.malus.halgvent.Halgvent_NewlandsClient"
+		],
+		"fabric-datagen": [
+			"net.malus.halgvent.Halgvent_NewlandsDataGenerator"
+		]
+	},
+	"mixins": [
+		"halgvent_newlands.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.6",
+		"minecraft": "~1.20.4",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

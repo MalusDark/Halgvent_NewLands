@@ -1,0 +1,9 @@
+{
+  "variants":
+  {
+    "":
+    {
+      "model": "halgvent_newlands:block/wall_of_birch_logs_side"
+    }
+  }
+}

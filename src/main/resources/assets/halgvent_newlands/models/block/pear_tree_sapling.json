@@ -1,0 +1,7 @@
+ {
+                "parent": "block/cross",
+  "textures": {
+                    "cross": "halgvent_newlands:block/woods/sapling/pear_tree_sapling"
+  },
+   "render_type": "cutout"
+ }

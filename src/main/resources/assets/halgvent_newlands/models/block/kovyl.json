@@ -1,0 +1,6 @@
+ {
+                "parent": "block/cross",
+  "textures": {
+                    "cross": "halgvent_newlands:block/herbs/kovyl"
+  },"render_type": "cotout"}
+           

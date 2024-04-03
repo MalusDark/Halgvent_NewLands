@@ -1,0 +1,11 @@
+ {
+ "parent": "block/cube_all",
+ "textures": {
+ "down": "halgvent_newlands:block/dirt/taiga_forest_floor",
+ "up": "halgvent_newlands:block/dirt/taiga_forest_floor",
+ "east": "halgvent_newlands:block/dirt/taiga_forest_floor_side",
+ "west": "halgvent_newlands:block/dirt/taiga_forest_floor_side",
+ "north": "halgvent_newlands:block/dirt/taiga_forest_floor_side",
+ "south": "halgvent_newlands:block/dirt/taiga_forest_floor_side"
+ }
+ }

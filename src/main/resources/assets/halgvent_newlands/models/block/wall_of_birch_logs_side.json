@@ -1,0 +1,13 @@
+ {
+ "parent": "block/cube",
+ "textures": {
+ "down": "halgvent_newlands:block/woods/birch/wall_of_birch_logs_side",
+ "up":  "halgvent_newlands:block/woods/birch/wall_of_birch_logs_side",
+ "north": "halgvent_newlands:block/woods/birch/wall_of_birch_logs_side",
+ "east":  "halgvent_newlands:block/woods/birch/wall_of_birch_logs_endface",
+ "south":  "halgvent_newlands:block/woods/birch/wall_of_birch_logs_side",
+ "west":  "halgvent_newlands:block/woods/birch/wall_of_birch_logs_endface",
+ "particle": "halgvent_newlands:block/woods/birch/wall_of_birch_logs_endface"
+ },
+ "render_type": "solid"
+ }

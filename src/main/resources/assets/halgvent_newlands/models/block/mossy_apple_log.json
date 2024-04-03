@@ -1,0 +1,13 @@
+ {
+ "parent": "block/cube",
+ "textures": {
+ "down": "halgvent_newlands:block/woods/apple/mossy_apple_log_top",
+ "up": "halgvent_newlands:block/woods/apple/mossy_apple_log_top",
+ "north":  "halgvent_newlands:block/woods/apple/mossy_apple_log",
+ "east": "halgvent_newlands:block/woods/apple/mossy_apple_log",
+ "south": "halgvent_newlands:block/woods/apple/mossy_apple_log",
+ "west":  "halgvent_newlands:block/woods/apple/mossy_apple_log",
+ "particle": "halgvent_newlands:block/woods/apple/mossy_apple_log"
+ },
+ "render_type": "solid"
+ }

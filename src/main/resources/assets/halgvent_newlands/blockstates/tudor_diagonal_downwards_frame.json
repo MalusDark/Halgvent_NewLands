@@ -1,0 +1,9 @@
+{
+  "variants":
+  {
+    "":
+    {
+      "model": "halgvent_newlands:block/tudor_diagonal_downwards_frame"
+    }
+  }
+}

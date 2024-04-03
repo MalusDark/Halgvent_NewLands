@@ -1,0 +1,13 @@
+{
+ "parent": "block/cube",
+ "textures": {
+ "down": "halgvent_newlands:block/woods/ash/mossy_ash_log_top",
+ "up": "halgvent_newlands:block/woods/ash/mossy_ash_log_top",
+ "north":  "halgvent_newlands:block/woods/ash/mossy_ash_log",
+ "east": "halgvent_newlands:block/woods/ash/mossy_ash_log",
+ "south": "halgvent_newlands:block/woods/ash/mossy_ash_log",
+ "west":  "halgvent_newlands:block/woods/ash/mossy_ash_log",
+ "particle": "halgvent_newlands:block/woods/ash/mossy_ash_log"
+ },
+ "render_type": "solid"
+ }
